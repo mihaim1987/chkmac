@@ -5,5 +5,5 @@ ApiKeyMACADDR=at_7RbW6W5wNiWcmnw9pIONngNxlGvaz
 
 for MAC in "$@"
 do
-  echo "$@ Haves Vendor - $(curl --silent --url "https://api.macaddress.io/v1?apiKey=$ApiKeyMACADDR&output=vendor&search=$MAC")"
+  echo "$@ - $(curl --silent --url "https://api.macaddress.io/v1?apiKey=$ApiKeyMACADDR&output=vendor&search=$MAC")"
 done
