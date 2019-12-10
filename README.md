@@ -5,8 +5,7 @@ cause!
 
 
 Prerequisites:
-curl
-OS Linux
+OS Linux and curl
 
 Installing:
 After copying the script on the destination machine, give to the script execute permissions.
