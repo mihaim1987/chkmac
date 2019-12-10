@@ -1,3 +1,9 @@
+This software comes without warranty of any kind. Use it at your own risk.
+I assume no liability for the accuracy, correctness, completeness, or usefulness 
+of any information provided nor for any sort of damages using this script may
+cause!
+
+
 Prerequisites:
 curl
 
