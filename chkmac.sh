@@ -1,5 +1,5 @@
 #!/bin/bash
-ApiKeyMACADDR=1
+ApiKeyMACADDR=
 
 [ $# -eq 0 ] && { echo "Usage: $0 MAC address"; exit 1; }
 
